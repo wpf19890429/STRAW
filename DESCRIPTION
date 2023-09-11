@@ -1,0 +1,10 @@
+Package: STRAW
+Type: Package
+Title: Structure-Adaptive Weighting Procedure for Large-Scale Spatial Multiple Testing
+Version: 0.1.0
+Author: Canhui Li, Pengfei Wang and  Pengyu Yan 
+Maintainer: Canhui Li <lich380@nenu.edu.cn>
+Description: Structure-Adaptive Weighting Procedure for Large-Scale Spatial Multiple Testing.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
